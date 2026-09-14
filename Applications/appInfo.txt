@@ -1,0 +1,1 @@
+[{"appName":"Roblox VN","appPackage":"com.roblox.client.vnggames","appVersion":"2.727.1199","appVersionCode":2311},{"appName":"Proton VPN","appPackage":"ch.protonvpn.android","appVersion":"5.19.43.0","appVersionCode":605194300}]
